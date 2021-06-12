@@ -1,18 +1,17 @@
 ---
 date: '2019-01-21'
-title: 'Senior Software Engineer'
+title: 'Lead Software Engineer'
 company: 'Itilite'
 location: 'Bangalore, IN'
 range: 'Jan 2019 - Present'
 url: 'https://itilite.com/'
 ---
 
-- Implemented Google SSO and integrated Fyle (an expense management product) with Itilite to
-manage expenses which are done in Itilite.
-- Developed Itilite mobile app's backend with NodeJS from scratch and added new features to it to
-book the flight tickets easily within a few seconds.
-- Re-constructed the complete back-end of Flight Booking in Python in a robust way to reuse and to
-expand whenever we want.
-- I developed International Flight bookings automation to reduce the manual work to more than 50%
-and to increase the rate of automated bookings which were done in Itilite.
-- Managing the Integrations team and being a part of hiring team to filter intelligent brains for Itilite.
+- Redesigned the complete backend of our main product from PHP to Python in a more scalable way
+  with proper microservice architecture.
+- Introduced booking automation in the mobile app using Node.js to make the
+  Itilite handy and user-friendly.
+- Took ownership in managing the Integrations team and integrated Itilite with
+  leading Saas products like Google, Zoho, Expensify, Fyle, etc.
+- Leading a cross-functional team of an Expense Management product. Designed and
+  developed the product from scratch in reliable and scalable way.

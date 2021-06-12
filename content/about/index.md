@@ -1,6 +1,6 @@
 ---
 title: 'About Me'
-avatar: './me.jpeg'
+avatar: './me.jpg'
 skills:
   - JavaScript (ES6+)
   - HTML & (S)CSS
@@ -11,15 +11,19 @@ skills:
   - PHP
   - Laravel
   - React
-  - Core Java & Servlet
+  - Core Java & J2EE
   - MySQL & Redis
   - ElasticSearch
+  - AWS
+  - Jenkins
 ---
 
-Hello! I'm Saravanan, an energetic senior software engineer with 3.5+ years of experience in developing robust code. An enthusiastic team player and a deep creative thinker from a fast-paced startup environment.
+Hello! I'm Saravanan, an energetic Lead software engineer with almost 5 years of startup experience in handling cross-functional teams and building scalable SaaS products from scratch. An enthusiastic team player and a deep creative thinker from a fast-paced startup environment.
 
-Always, I like to add more attractive and cool features in our products. In my free time, I regularly explore the new product releases in Product Hunt to get more new ideas and I do read startup news frequently using Inshorts.
+Always, I like to build reliable, scalable systems with high concurrency. I do follow Product Hunt and Inshorts regularly to know more about the industry.
 
-Basically I'm one of the core developers team who develops major/critical features of the product. Parallelly managing the Integrations team on my own. Always there has been a relationship with me and Integrations from [Zarget](https://www.freshworks.com/marketing-automation/?source=fworks&medium=referral&campaign=fworks_product_nav) itself. Also built major skills and trained Maya (an AI voice assistant) in my previous company named [Smartron](https://smartron.com/tronx.html). Being the Best performer for the last 3 years and got multiple awards for it.
+I'm one of the core developers who can build major/critical features of the product. Parallelly expertise in handling multiple teams at the same time. Always there has been a relationship with me and Integrations from [Zarget](https://www.freshworks.com/marketing-automation/?source=fworks&medium=referral&campaign=fworks_product_nav) itself. I've built major skills and trained an AI voice assistant (Maya - similar to Amazon Alexa) in [Smartron](https://smartron.com/tronx.html).
+
+Now handling a cross-functional Expense management team and the integrations team simultaneously in [Itilite](https://www.itilite.com/home).
 
 Here are a few technologies I've been working with recently:
