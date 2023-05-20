@@ -1,15 +1,15 @@
 module.exports = {
-  siteTitle: 'Saravanan C M | Sr Software Engineer',
+  siteTitle: 'Saravanan C M | Technical Lead',
   siteDescription:
-    'Saravanan is a senior software engineer based in Bangalore, IN who specializes in building and launching a SaaS product from scratch.',
+    'Saravanan is a Technical Lead based in Chennai, IN who specializes in building and launching a SaaS product from scratch.',
   siteKeywords:
-    'Saravanan, saravanan, cm, c m, lead software engineer, senior software engineer, software engineer, web developer, javascript, bangalore, chennai',
+    'Saravanan, saravanan, cm, c m, engineering, engineering lead, technical lead, engineer, developer, architect, senior software engineer, software engineer, web developer, javascript, bangalore, chennai',
   siteUrl: 'https://saravanancm.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-173387262-1',
   googleVerification: 'IKT85vVrq5U_HJX1qwY-VyZ4tXtWMqiUHLqO4E65PaI',
   name: 'Saravanan C M',
-  location: 'Bangalore, IN',
+  location: 'Chennai, IN',
   email: 'reachcms6@gmail.com',
   github: 'https://github.com/saravanan-cm',
   twitterHandle: '@saravanan_c_m',
